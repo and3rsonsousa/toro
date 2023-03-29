@@ -14,9 +14,7 @@ export default component$(() => {
 				>
 					Pede pelo APP
 				</a>
-				<a href="https://wa.me/5588992637940" class="link">
-					Deu BO no seu pedido? Chama aqui.
-				</a>
+
 				{/* <div class="mb-8 text-sm text-yellow-300">
 					Aqui tem Entrega grátis para Cidade dos Funcionários e
 					Região ( 5km ).
@@ -35,6 +33,9 @@ export default component$(() => {
 					class="link"
 				>
 					aiqfome de um Toro
+				</a>
+				<a href="https://wa.me/5588993425341" class="link">
+					Deu BO no seu pedido? Chama aqui.
 				</a>
 			</div>
 			<div>
