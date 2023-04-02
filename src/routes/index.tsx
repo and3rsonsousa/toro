@@ -9,7 +9,7 @@ export default component$(() => {
 			</div>
 			<div class="links">
 				<a
-					href="https://meucarrinho.delivery/toroburgerandbeer"
+					href="https://app.anota.ai/toro-burger-and-beer?utm_source=portal-share-btn"
 					class="link link-primary"
 				>
 					Pede pelo APP
