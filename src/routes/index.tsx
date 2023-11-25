@@ -32,7 +32,7 @@ export default component$(() => {
 					</span>
 				</a>
 				<a
-					href="https://www.ifood.com.br/delivery/fortaleza-ce/fome-de-toro-cidade-dos-funcionarios/54e0ce83-3306-429e-bac5-0de2d2c3a9f7"
+					href="https://www.ifood.com.br/delivery/sobral-ce/toro-burger-and-beer-centro/7a0c8612-8836-4f59-a9e5-23f419e54609"
 					class="link"
 				>
 					Tamo no iFood
