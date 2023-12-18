@@ -37,12 +37,7 @@ export default component$(() => {
 				>
 					Tamo no iFood
 				</a>
-				<a
-					href="https://aiqfome.com/CE/sobral/toro-burger-beer"
-					class="link"
-				>
-					aiqfome de um Toro
-				</a>
+
 				<a href="https://wa.me/5588993425341" class="link">
 					Deu BO no seu pedido? Chama aqui.
 				</a>
