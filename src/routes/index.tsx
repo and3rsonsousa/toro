@@ -7,7 +7,7 @@ export default component$(() => {
 	return (
 		<div class="max-w-md flex justify-between flex-col gap-8 min-h-[80vh] p-8">
 			<div class="mb-4">
-				<img src="/logo.png" class="mx-auto w-32" alt="" />
+				<img src="/logo.png" class="mx-auto max-h-24" alt="" />
 			</div>
 			<div class="links">
 				<a href="https://wa.me/5588993425341" class="link link-primary">
@@ -36,6 +36,12 @@ export default component$(() => {
 					class="link"
 				>
 					Tamo no iFood
+				</a>
+				<a
+					href="https://aiqfome.com/CE/sobral/toro-burger-beer"
+					class="link"
+				>
+					aiqfome de um Toro
 				</a>
 
 				<a href="https://wa.me/5588993425341" class="link">
