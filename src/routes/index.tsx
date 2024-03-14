@@ -2,8 +2,6 @@ import { component$ } from "@builder.io/qwik";
 import type { DocumentHead } from "@builder.io/qwik-city";
 
 export default component$(() => {
-	const date = new Date();
-
 	return (
 		<div class="max-w-md flex justify-between flex-col gap-8 min-h-[80vh] p-8">
 			<div class="mb-4">
