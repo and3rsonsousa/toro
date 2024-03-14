@@ -13,15 +13,7 @@ export default component$(() => {
 				<a href="https://wa.me/5588993425341" class="link link-primary">
 					Pede pelo ZAP
 				</a>
-				{date.getDay() === 4 && (
-					<div class="bg-yellow-300 text-sm p-2 rounded text-center text-black">
-						Ei, a entrega hoje é só{" "}
-						<span class="text-toro font-black tracking-wide">
-							2 CONTO
-						</span>
-						. Pede logo!
-					</div>
-				)}
+
 				<a
 					href="cardapio-toro.pdf"
 					class="link justify-between items-center"
