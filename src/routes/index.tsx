@@ -32,13 +32,13 @@ export default component$(() => {
 					</span>
 				</a>
 				<a
-					href="https://www.ifood.com.br/delivery/sobral-ce/toro-burger-and-beer-centro/7a0c8612-8836-4f59-a9e5-23f419e54609"
+					href="https://www.ifood.com.br/delivery/sobral-ce/toro-burger-and-beer-centro/6fdf3f20-1738-4c3a-9d28-e6a2bbb54620"
 					class="link"
 				>
 					Tamo no iFood
 				</a>
 				<a
-					href="https://aiqfome.com/CE/sobral/toro-burger-beer"
+					href="https://aiqfome.com/CE/sobral/fome-de-toro-burger"
 					class="link"
 				>
 					aiqfome de um Toro
