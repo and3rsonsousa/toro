@@ -8,9 +8,15 @@ export default component$(() => {
 				<img src="/logo.png" class="mx-auto max-h-24" alt="" />
 			</div>
 			<div class="links">
-				<a href="https://wa.me/5588993425341" class="link link-primary">
-					Pede pelo ZAP
+				<a
+					href="https://app.cardapioweb.com/toro_burger"
+					class="link link-primary"
+				>
+					BORA PEDIR SEU TORO?
 				</a>
+				<div class="mb-8">
+					Se pedir por aqui, tem entrega grátis. 😏
+				</div>
 
 				<a
 					href="cardapio-toro.pdf"
