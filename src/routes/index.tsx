@@ -14,9 +14,9 @@ export default component$(() => {
 				>
 					BORA PEDIR SEU TORO?
 				</a>
-				<div class="mb-8">
+				{/* <div class="mb-8">
 					Se pedir por aqui, tem entrega grátis. 😏
-				</div>
+				</div> */}
 
 				<a
 					href="cardapio-toro.pdf"
